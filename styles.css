@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+H2{
+    color: red;
+}
+body{
+    background-color: gray;
+}
+
+
+.refs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+}
